@@ -2,7 +2,6 @@ package QuizGame;
 
 import java.awt.event.*;
 import java.awt.*;
-import javax.imageio.plugins.tiff.TIFFImageReadParam;
 import javax.swing.*;
 
 public class Quiz implements ActionListener{
